@@ -25,7 +25,7 @@ pytest
 ### API Endpoints (Test using Postman or Web):
 
 #### API Endpoints (employee actions):
-* For testing tokens, first of all register test a user via admin.
+* For testing tokens, first of all register test user via admin.
 ```
 api/token/ - Receive JWT token
 api/token/refresh/ - Refresh JWT token
